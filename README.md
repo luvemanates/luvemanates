@@ -1,7 +1,7 @@
 Hi 👋 My name is Matthew Carr
 =============================
 
-I am Designing and Engineering Software, producing music, and authoring 13 books.
+I am Designing and Engineering Software, producing music, and authoring 16 works of fiction.
 ---------------------------------------------------------------------------------
 
 I'm an orphan, but I find love in doing the work that I do. I've been a software engineer for over 20 years, and I've been making music since I was a kid. More recently I've taken to writing books, screenplays, short stories, and doing stand up comedy.
@@ -19,9 +19,6 @@ I'm an orphan, but I find love in doing the work that I do. I've been a software
                     </p>
                     
 
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://www.github.com/luvemanates" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/luvemanates" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
@@ -39,4 +36,58 @@ I'm an orphan, but I find love in doing the work that I do. I've been a software
 
 <div width="100%" align="center"><a href="https://github.com/luvemanates/matchthat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=luvemanates&repo=matchthat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/luvemanates/ticketme" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=luvemanates&repo=ticketme&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes
+### Authored Literary Titles 
+
+<b>Books, screenplays, and story titles I've written</b>
+<ul>
+  <li>
+        Our Pity
+  </li>
+  <li>
+        A collection of short stories
+  </li>
+  <li>
+        Underdog Love
+  </li>
+  <li>
+        Chronicles of Riddick: Shadow Warrior
+  </li>
+  <li>
+        Covert Memory
+  </li>
+  <li>
+        Bingo Boys (screenplay)
+  </li>
+  <li>
+        Love's Hellish Game Show
+  </li>
+  <li>
+        A Dream Remembered
+  </li>
+  <li>
+        Back to the cheers
+  </li>
+  <li>
+        The idiot King
+  </li>  
+  <li>
+        The big Lebowski 2 (screenplay)
+  </li>
+  <li>
+        Whoever said they never wanted to exist vs Whoever said they always wanted to exist
+  </li>
+  <li>
+        Crazy Candy Land
+  </li>
+  <li>
+        From sumbag to strangers in seconds flat
+  </li>
+  <li>
+        An off behind the blind
+  </li>
+  <li>
+        The handler
+  </li>
+</ul>
+
+
