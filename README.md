@@ -4,13 +4,13 @@ Hi 👋 My name is Matthew Carr
 I am Designing and Engineering Software, producing music, and authoring 13 books.
 ---------------------------------------------------------------------------------
 
-I'm an orphan, but I find love in doing the work that I do. I've been a software engineer for over 20 years, and I've been making music since I was a kid. More recently I've taken to writing books, screenplays, and short stories.
+I'm an orphan, but I find love in doing the work that I do. I've been a software engineer for over 20 years, and I've been making music since I was a kid. More recently I've taken to writing books, screenplays, short stories, and doing stand up comedy.
 
 *   🌍  I'm based in Long Beach
-*   ✉️  You can contact me at [luvemanates@gmail.com](mailto:luvemanates@gmail.com)
-*   🚀  I'm currently working on [Ticketdevil, and Matchthat](http://na)
+*   ✉️  You can contact me at [luvemanates@gmail.com](mailto:luvemanates@gmail.com) and see my [portfolio: Designing and Engineering Software](http://matthewkcarr.tumblr.com)
+*   🚀  I'm currently working on [Ticketdevil, and Matchthat](http://matthewkcarr.tumblr.com)
 *   🧠  I'm learning Unreal Engine 5
-*   🤝  I'm open to collaborating on "anything"
+*   🤝  I'm open to collaborating on "anything," listen to my music [the gospelite](https://soundcloud.com/matt-carr-958333177/sets/m-1) and [Bumptious](https://soundcloud.com/matthewkcarr/sets/the-tares-destroyer)
 *   ⚡  I'm also a stand up comedian. Beware of the anti-joke matter universe.
 
 ### Skills 
