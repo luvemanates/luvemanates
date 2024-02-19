@@ -8,7 +8,7 @@ I'm an orphan, but I find love in doing the work that I do. I've been a software
 
 *   🌍  I'm based in Long Beach
 *   ✉️  You can contact me at [luvemanates@gmail.com](mailto:luvemanates@gmail.com) and see my [portfolio: Designing and Engineering Software](http://matthewkcarr.tumblr.com)
-*   🚀  I'm currently working on [Ticketdevil, and Matchthat](https://github.com/matthewkcarr?tab=repositories))
+*   🚀  I'm currently working on [Ticketdevil, and Matchthat](https://github.com/matthewkcarr?tab=repositories)
 *   🧠  I'm learning Unreal Engine 5
 *   🤝  I'm open to collaborating on "anything," listen to my music [the gospelite](https://soundcloud.com/matt-carr-958333177/sets/m-1) and [Bumptious](https://soundcloud.com/matthewkcarr/sets/the-tares-destroyer)
 *   ⚡  I'm also a stand up comedian. Beware of the anti-joke matter universe.
