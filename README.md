@@ -1,7 +1,7 @@
 Hi 👋 My name is Matthew Carr
 =============================
 
-I am Designing and Engineering Software, producing music, and authoring 16 works of fiction.
+I am Designing and Engineering Software, producing music, and and author of 16 works of fiction.
 ---------------------------------------------------------------------------------
 
 I'm an orphan, but I find love in doing the work that I do. I've been a software engineer for over 20 years, and I've been making music since I was a kid. More recently I've taken to writing books, screenplays, short stories, and doing stand up comedy.
